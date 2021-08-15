@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+
+
+}
+
+.label {
+  padding: 10px;
+}
+
+.field {
+  margin-top: 10px;
 }
